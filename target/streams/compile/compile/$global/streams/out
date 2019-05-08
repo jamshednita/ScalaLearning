@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0mC:\Users\jamansar\IdeaProjects\Demo_Scala\src\main\scala\HigherOrderFuncDemo.scala:2:16: not found: type int[0m
+[0m[[0m[31merror[0m] [0m[0m  def apply(f: int => String, v:Int):String = f(v)[0m
+[0m[[0m[31merror[0m] [0m[0m               ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
